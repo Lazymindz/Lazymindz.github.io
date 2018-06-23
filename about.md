@@ -10,4 +10,4 @@ Source code for examples cited on the site are available on Github:
 [Lazymindz][github-link]
 
 [github-link]: https://github.com/Lazymindz
-[linkedin-link]: www.linkedin.com/in/sivakovvuru
+[linkedin-link]: https://www.linkedin.com/in/sivakovvuru
