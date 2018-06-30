@@ -4,41 +4,52 @@ title: About me
 subtitle: Technology space is changing rapidly. So should you!
 ---
 
-My name is Siva Kovvuru (thats in short for 'Venkata Sivarama Raju Kovvuru').
+Let us start with my name: **Siva Kovvuru** (that’s in short for ‘Venkata Sivarama Raju Kovvuru’).
 
-If you are here to know a bit of my experience in the IT space, then here is a bit of it.
+My eyes lit whenever there’s a conversation around me about:
+-	Artificial Intelligence
+-	Deep Learning
+-	Blockchain
+-	Cyber Security
+-	Anything cool in general (great modules, frameworks)
 
-### Summary
+**My motto(s)**:
+>Every problem can be solved. Follow the principles of [Transfer Learning][1]. Build simplified solutions to complex problems. Believe me, we need not start from scratch.
 
-- 11 years of experience in IT consulting with clients across Investment Banking, Credit Services, Energy Economics, and Retail.
-- Hands on exposure to various facets of IT Solutions – Testing, Data Analysis, Infrastructure, Operational Support, Project Coordination
-- Demonstrated ability to learn new technologies, domains, and deliver projects with minimal upskill overhead
-- Adept in deriving solutions for multiple aspects of Automation, Robotic Process Automation, Test Automation, Operational Automation, Infrastructure Automation
-- Competent in optimization methodologies such as Orthogonal, Risk Based and their application to projects as suitable
-- Exposure to designing, deploying, and maintaining Azure cloud infrastructure components that support the Application Architecture
-- Expertise in delivery of Test Projects from their planning to execution
-- Outstanding Work Place recognition through the career cycle
+**Continuous Learning**.
+>Technology is evolving at a rapid pace changing everything we believe is the current standard. I continuously self reassess to try and keep up with it.  
 
-### Achievements
+Some of the trainings and certifications I undertook in the recent times (Verifiable certificate Links on LinkedIn):
 
-To be honest, every accomplishment gets outdated soon enough.
-Technology is evolving at a rapid pace changing everything we believe is the current standard.
-In that sense here is my work:
+  - Deep Learning Specialization
+  - Decentralised AI : Ethereum, IPFS, Openmined
+  - IBM HyperLedger Blockchain Foundation Developer Certification
 
-#### Self Scaled to future digital space
-Next steps in Digital Transformation will have AI, Blockchain, Cyber Security, and Process
-Automation taking center stage. Here's my ground work to excel in that space.
-
-  **Certifications**:
-  - 7 Certifications on AI including Deep Learning Specialization
-  - IBM Blockchain Essentials
-  - Ongoing Training:
-    - Decentralised AI : Ethereum, IPFS, Openmined
-  - IBM HyperLedger Foundation Developer Certification
-
-  **Other Training and Certifications**:
+  *Other Training and Certifications*:
   - Salesforce nCino Certified
   - ISTQB Testing Foundation Level
   - Robotic Process Automation: BluePrism
 
-Want to hear more? Just reach out me.
+I spend most of my travel time listening to ‘AI Podcasts’ (and about Python repositories), and find them a great way to get insights into the latest implementations, algorithms, modules, and improved understanding.
+
+Major chunk my professional work caters to projects that assist in Data Analysis, Automation (Infrastructure, Operational, Test, and RPA), Testing (Functional and Non-functional).
+
+Want to know more about me? Just reach out.
+
+*Credits*: There are amazing people out there who’ve done all the hard work for us. I credit whatever knowledge I impart, to my mentors and ‘Open Source Community’.
+
+Meetups that I attend to:
+
+[![Tech Nottingham](https://secure.meetupstatic.com/photos/event/7/7/d/a/600_458130682.jpeg)](https://www.meetup.com/Tech-Nottingham/)
+
+[![Nottingham Artificial Intelligence Meetup](https://secure.meetupstatic.com/photos/event/8/3/1/2/600_456033554.jpeg)](https://www.meetup.com/Nottingham-Artificial-Intelligence-Meetup/)
+
+[![EOS UK](https://secure.meetupstatic.com/photos/event/1/9/2/2/600_470766434.jpeg)](https://www.meetup.com/EOS-UK-Meetup/)
+
+[![block3 Community](https://secure.meetupstatic.com/photos/event/a/0/b/a/600_468641146.jpeg)](https://www.meetup.com/block3/)
+
+Podcasts I listen:
+- [Data Skeptic](https://dataskeptic.com/podcast)
+- [Podcast.__init__](https://www.podcastinit.com/)
+
+[1]:https://en.wikipedia.org/wiki/Transfer_learning
