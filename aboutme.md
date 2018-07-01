@@ -17,7 +17,7 @@ My eyes lit whenever there’s a conversation around me about:
 >Every problem can be solved. Follow the principles of [Transfer Learning][1]. Build simplified solutions to complex problems. Believe me, we need not start from scratch.
 
 **Continuous Learning**.
->Technology is evolving at a rapid pace changing everything we believe is the current standard. I continuously self reassess to try and keep up with it.  
+>Technology is evolving at a rapid pace; changing everything we believe is the current standard. I continuously self reassess to try and keep up with it.  
 
 Some of the trainings and certifications I undertook in the recent times (Verifiable certificate Links on LinkedIn):
 
@@ -32,7 +32,7 @@ Some of the trainings and certifications I undertook in the recent times (Verifi
 
 I spend most of my travel time listening to ‘AI Podcasts’ (and about Python repositories), and find them a great way to get insights into the latest implementations, algorithms, modules, and improved understanding.
 
-Major chunk my professional work caters to projects that assist in Data Analysis, Automation (Infrastructure, Operational, Test, and RPA), Testing (Functional and Non-functional).
+Major chunk of my professional work caters to projects that assist in Data Analysis, Automation (Infrastructure, Operational, Test, and RPA), Testing (Functional and Non-functional).
 
 Want to know more about me? Just reach out.
 
