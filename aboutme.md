@@ -35,10 +35,6 @@ I spend a part of my spare time listening to ‘AI Podcasts’ (and about Python
 
 Major chunk of my professional work caters to projects that assist in Cloud Architecture(Azure), Devops, Data Analysis, Automation (Infrastructure, Operational, Test, and RPA), and Testing (Functional and Non-functional).
 
-Want to know more about me? Just reach out.
-
-*Credits*: There are amazing people out there who’ve done all the hard work for us. I credit whatever knowledge I impart, to my mentors and ‘Open Source Community’.
-
 I currently organise an AI Meetup group in Nottingham, and am keen on making the group as self suistainable as possbile in the future. We intend to work on projects that can make an impact. Visit [Notts.AI](https://notts.ai) for more information.
 
 [![Nottingham Artificial Intelligence Meetup](https://secure.meetupstatic.com/photos/event/8/3/1/2/600_456033554.jpeg)](https://www.meetup.com/Nottingham-Artificial-Intelligence-Meetup/)
@@ -54,5 +50,9 @@ Other Meetups that I attend:
 Some Podcasts I listen to. They are a great recommend anyday:
 - [Data Skeptic](https://dataskeptic.com/podcast)
 - [Podcast.__init__](https://www.podcastinit.com/)
+
+Want to know more about me? Just reach out.
+
+*Credits*: There are amazing people out there who’ve done all the hard work for us. I credit whatever knowledge I impart, to my mentors and ‘Open Source Community’.
 
 [1]:https://en.wikipedia.org/wiki/Transfer_learning
